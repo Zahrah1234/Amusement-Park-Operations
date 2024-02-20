@@ -1,0 +1,3 @@
+The code is useful for a manager who is looking into the operations of an amusement park. He can use the system to input the names of the months and see the number of visitors across the months. He can put in however many months he want—1,7, 9 to identify the trend. 
+The code also uses SQL to create a database for the employees. The system allows the user to add the number of employees and their details such as contact details, the shift they’re working as well as the salary. It also allows them to search the employees who are working the shift in this database. 
+The last part of the program deals with the revenue data. This allows the manager to see the source of revenue for their data and how much each source is generating. 
